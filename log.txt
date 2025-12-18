@@ -1,0 +1,4 @@
+
+2025-12-18 10:58:31,461 - INFO - Start programu
+2025-12-18 10:58:31,461 - WARNING - Pozor!
+2025-12-18 10:58:31,470 - INFO - Nacteno 100 kusu zbozi z noveho skladu.
