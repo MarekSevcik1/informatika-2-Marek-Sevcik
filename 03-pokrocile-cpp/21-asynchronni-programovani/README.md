@@ -75,7 +75,7 @@ auto future = std::async(std::launch::async, moje_funkce);
 
 Největší novinkou v C++20 jsou korutiny. Na rozdíl od běžné funkce se korutina může **pozastavit** (suspend) a později **obnovit** (resume).
 
-### **Jak korutina funguje (Pod kapotou)?**
+### **Jak korutina funguje?**
 
 Na rozdíl od Pythonu nebo JavaScriptu, kde má jazyk vestavěný "Event Loop", v C++ je korutina čistě **přepis kódu překladačem**.
 
